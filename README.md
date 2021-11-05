@@ -1,5 +1,5 @@
 # telebot-spamhaus
-Telegram botuna gönderilecek bir e-posta ile SPAMHAUS Spam databasesinden sorgu atılması
+Telegram botuna gönderilecek bir mesaj ile SPAMHAUS Spam databasesinden sorgu atılması
 
 Merhabalar,
 
